@@ -18,7 +18,7 @@ Now you can access the app at [http://localhost:8501](http://localhost:8501) in 
   - Balloons 🎈 will appear when the sentiment is positive 🥳.
   - Sad trees 🌳 will move when the sentiment is negative 😔.
 ## To ensure the project run without errors run these commands in the shell of vs code :
-![Image Alt Text](path/to/image)
+![Image Alt Text](https://github.com/AmiraSayedMohamed/Sentiment-Analysis-App-Using-Streamlit/blob/master/pictures/requireBeforeStartingTheCode.jpg)
 
 python app.py # to see what errors you have
 python  # to open the shell
