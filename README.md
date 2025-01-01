@@ -23,11 +23,11 @@ Now you can access the app at [http://localhost:8501](http://localhost:8501) in 
 python app.py # to see what errors you have
 python  # to open the shell
 # These code to put store the data in
-import nltk
-nltk.data.path.append('C:/Users/amira/Downloads/Sentiment-_Analysis_App_Using_Ml-main/Sentiment-_Analysis_App_Using_Ml-main/nltk_data')
-nltk.download('punkt')
-exit()
-streamlit run app.py
+- import nltk
+- nltk.data.path.append('C:/Users/amira/Downloads/Sentiment-_Analysis_App_Using_Ml-main/Sentiment-_Analysis_App_Using_Ml-main/nltk_data')
+- nltk.download('punkt')
+- exit()
+- streamlit run app.py
 
 ## 🎥 Demo
 Check out the demo video of the app in action [here](#)! 🎬
